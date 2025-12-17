@@ -142,7 +142,8 @@
 			children = (
 				AA0000000000000000000114 /* Assets.xcassets */,
 			);
-			path = Assets.xcassets;
+			name = Assets.xcassets;
+			path = "";
 			sourceTree = "<group>";
 		};
 		AA0000000000000000000010 /* Supporting */ = {
